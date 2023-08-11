@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-assignment-servers-and-apis",
+  "version": "1.0.0",
+  "description": "NodeJS Assignment:Servers and APIs.This assignment was given to us on August 5th",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fagbemi Jeremiah",
+  "license": "ISC"
+}

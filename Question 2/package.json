@@ -1,0 +1,11 @@
+{
+  "name": "question-2",
+  "version": "1.0.0",
+  "description": "Without using a framework, build an api server to manage inventory information. Api should be able to",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fagbemi Jeremiah",
+  "license": "ISC"
+}
